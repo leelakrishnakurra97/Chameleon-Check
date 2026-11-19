@@ -35,9 +35,7 @@ if sys.platform == "win32":
     except Exception:
         pass
 
-# -----------------------------------------------------------------------------
-# Extension Classifications & Knowledge Base
-# -----------------------------------------------------------------------------
+
 
 DANGEROUS_EXECUTABLES: Set[str] = {
     ".exe", ".scr", ".pif", ".com", ".cpl", ".msi", ".msp", ".gadget",
