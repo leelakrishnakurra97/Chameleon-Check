@@ -1,4 +1,4 @@
-# 🦎 Chameleon Check
+# Chameleon Check
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -14,7 +14,7 @@ Each file receives an explainable **risk score (0–100)** and a **`LOW`**, **`M
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ### One-Line Description
 > *Chameleon Check is a Python tool that spots disguised and risky email attachments, like `invoice.pdf.exe`, before they fool anyone.*
